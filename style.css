@@ -24,6 +24,7 @@
 .video-meta {
     display: flex;
     margin-left: 10px;
+    gap: 7px;
 }
 
 .video-info {
@@ -63,3 +64,4 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     cursor: pointer;
 }
+
